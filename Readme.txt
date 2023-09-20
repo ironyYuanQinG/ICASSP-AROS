@@ -1,3 +1,5 @@
 Abstaract : For usage and infrastructure convenience, WiFi-based human motion recognition methods are widely used. However, the spatial diversity of MIMO causes differences in the representation of action features across antenna links. Furthermore, using all of the data is computationally time-consuming, and using part of the data may miss key features. To address these issues, a Human Action Recognition by Spatio-Temporal Fusion Mechanism Based on Optimized Subcarriers (AROS) is proposed in this paper. Specifically: K-means adaptive clustering with adaptive clustering cores, aiming to select information-rich and complementary subcarriers through cluster analysis and correlation computation. The correlation-weighted fusion mechanism is presented to enhance the MIMO link characteristics. A network structure based on spatial module, temporal convolutional network, and temporal attention is presented to extract CSI spatiotemporal features. The experimental results show that AROS achieves an accuracy of 96.4\%, 96.3\%, and 94.6\% in three environments on 14 human activity datasets, validating its effectiveness.
 If this article is accepted, we will make the code of AROS public
-The Data linking:
+The Data linking : https://pan.baidu.com/s/1lCU5mqQwRmD-NG3dWVI0yQ?pwd=gktn 
+Extract code：gktn 
+
